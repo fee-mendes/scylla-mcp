@@ -1,0 +1,2 @@
+# scylla-mcp
+ScyllaDB MCP
